@@ -1,100 +1,88 @@
-Johnny Coder
+Otto Ahonen
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+> Experienced management consultant and software engineer specializing in digital
+> transformation and software automation.
+
+> Available for positions in software &  engineering, cloud, and DevOps.
 
 ----
-
-Education
----------
-
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Azure Engineer and Scrum Master** | 4/2022 –
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+* Implementing data solutions using native Azure services and Python
+* Scrum Master for a team of 4 data engineers
 
-* First item
+**Senior Technology Consultant / Siili Solutions** | 8/2019 – 3/2022
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Implementing software automations for customers using Python, Robot Framework
+and Jenkins
+* Mentoring other automation developers on solution design and best practices
+* Handling production incidents for managed service customers in adherence with
+SLA requirements
+* Supporting recruitment by reviewing code exams and conducting technical
+interviews
+* Supporting sales by preparing offer materials and giving live demonstrations
 
-**That Other Job You Had**
+Highlights:
+* Architected an automation-driven Jira Service Desk environment serving
+multiple customers
+* Migrated an on-premises RPA environment containing multiple production jobs
+and machines to the cloud
 
-Also with a short description.
+**Technology Consultant / CGI** | 8/2018 – 7/2019
+* Design and delivery of software automation solutions and related advisory
 
-Technical Experience
+**Technology Consultant / Deloitte** | 4/2017 – 7/2018
+* Design and delivery of software automation solutions and related advisory
+* Salesforce.com implementation and administration
+
+**Risk Management Analyst / Deloitte** | 3/2015 – 3/2017
+* Internal & IT audits, data analytics and forensics
+
+Technical skills
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Microsoft Azure
+2 years professional experience. Notable services:
+* Functions, Logic Apps, Data Factory, Databricks, SQL Database,
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+Python
+~5 years professional experience. Notable libraries:
+* FastAPI, Flask, pydantic, pandas, pymongo, SQLAlchemy, requests, zeep, robotframework, pytest
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+Databases
+MS SQL Server, PostgreSQL, MongoDB
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+Other
+Jenkins, Robot Framework, Docker, Git, Linux, Windows, Jira, Confluence, Salesforce.com, PowerBI, Looker Studio, Tableau, Qlik
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+Certifications
+--------------------
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+* Azure Data Engineer Associate
+* SnowPro Core Certification
+* Salesforce Certified Administrator
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+Education
+---------
 
-[ref]: https://github.com/githubuser/superlongprojectname
+2008-2015
+:   **Master of Science – Economics and Business Administration** / Lappeenranta University of Technology
 
-Extra Section, Call it Whatever You Want
+Majored in Strategic Finance
+
+Other
 ----------------------------------------
 
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+* Finnish, English, some Mandarin Chinese
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> otto.ahonen@gmail.com | +358 (0)40 7026 228 | www.linkedin.com/in/ottoa
+> Helsinki, Finland • b.1988
