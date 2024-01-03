@@ -10,11 +10,13 @@
 
 /* Whole document */
 body {
+    /* super compact */
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    max-width: 800px;
-    margin: auto;
-    background: #FFFFFF;
-    padding: 10px 10px 10px 10px;
+    font-size: 10pt;
+    margin: 0;
+    padding: 0;
+    /* does this even work */
+    line-height: 1.0;
 }
 
 /* Title of the resume */
@@ -34,6 +36,7 @@ h1 {
 h2 {
     /* This is called "sectioncolor" in the ConTeXt stylesheet. */
     color: #397249;
+    font-size: 30px;
 }
 /* There is a bar just before each category */
 h2:before {
@@ -60,11 +63,12 @@ dt {
 }
 dd {
     margin-left: 17%;
-    margin-bottom:7px;
+    margin-bottom:0;
 }
 p {
     margin-top:0;
-    margin-bottom:7px;
+    margin-bottom:0;
+    line-height: 2.0;
 }
 
 /* Blockquotes */
